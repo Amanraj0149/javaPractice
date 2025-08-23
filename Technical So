@@ -1,0 +1,233 @@
+1) The mechanism by which the data and functions are bound together with an
+   (a) Inheritance
+   (b) Encapsulation
+   (c) Abstraction
+   (d) Polymorphism
+   (e) None of these
+   Answer: (b) Encapsulation
+
+2) The OSI model consists of ___ layers.
+   (a) Nine
+   (b) Eight
+   (c) Seven
+   (d) Five Eleven
+   Answer: (c) Seven
+
+3) Decryption & Encryption of data are the responsibility of the ___ layer.
+   (a) Physical
+   (b) Data link
+   (c) Presentation
+   (d) Session Application
+   Answer: (c) Presentation
+
+4) LANs can be connected by devices called ____ which operate in the data link layer?
+   (a) Hub
+   (b) Bridges
+   (c) HDLC
+   (d) Tunnel
+   (e) None of these
+   Answer: (b) Bridges
+
+5) In a ____ topology, if there are n devices in a network, each device has n-1 ports for cable.
+   (a) Mesh
+   (b) Star
+   (c) Bus
+   (d) Ring
+   (e) None of these
+   Answer: (a) Mesh
+
+6) OLAP applications are widely used by ____ and it uses ____ Schema.
+   (a) RDBMS , Bus
+   (b) Operating System ,Star
+   (c) Java , Bus
+   (d) Data mining Techniques; Star or multidimensional
+   (e) None of these
+   Answer: (d) Data mining Techniques; Star or multidimensional
+
+7) Arrange the following in increasing order of their size.
+   Options (mixed in prompt). Correct hierarchy:
+   Answer: Bit < Byte < Field < Record < File < Database
+
+8) JVM is a virtual machine that can execute ___
+   (a) C language
+   (b) .net programming
+   (c) RDBMS
+   (d) C++ Language
+   (e) Java byte Code
+   Answer: (e) Java byte Code
+
+9) ODBC is based on ___.
+   (a) Structured Query Language.
+   (b) C language
+   (c) C++ language
+   (d) .net
+   (e) None of these
+   Answer: (a) Structured Query Language
+
+10) Which of the following is not an advantage of the data-base approach?
+    (a) Increased security
+    (b) Elimination data redundancy
+    (c) Ability to associate related data
+    (d) Programming/data independence
+    (e) All of the above
+    Answer: (e) All of the above
+
+11) In relational database row and column is called as ____ and ____ respectively.
+    (a) Tuple; Attribute
+    (b) Attribute; Tuple
+    (c) Tupple; Domain
+    (d) Attribute; Domain
+    (e) None of these
+    Answer: (a) Tuple; Attribute
+
+12) Java supports:
+    (a) Java supports both procedural and object-oriented programming
+    (b) Java is only a procedural language.
+    (c) Java is only an Object-Oriented.
+    (d) Java is related to
+    (e) None of the above.
+    Answer: (a) Java supports both procedural and object-oriented programming
+
+13) Stack is also called ____
+    (a) First In First Out (LIFO)
+    (b) Last In First Out (FIFO)
+    (c) First In Last Out (FILO)
+    (d) First Come First Served (FCFS)
+    (e) None of the above
+    Answer: (c) First In Last Out (FILO)  [i.e., LIFO]
+
+14) The index created by primary key column is called _____
+    (a) Unique Index
+    (b) Composite Index
+    (c) Single Index
+    (d) Primary index
+    (e) None of these
+    Answer: (d) Primary index
+
+15) In SQL, which command(s) is/are used to remove rows from a table.
+    (a) Delete
+    (b) Remove
+    (c) Truncate
+    (d) Both (a) and (b)
+    (e) None of the above
+    Answer: (a) Delete
+
+16) In SQL, the CREATE TABLE is used
+    (a) To create a table, defining its columns, integrity constraints, and storage allocation
+    (b) To add a column/integrity constraint to a table.
+    (c) To redefine a column
+    (d) To change a table’s storage characteristics
+    (e) All of the above
+    Answer: (a) To create a table, defining its columns, integrity constraints, and storage allocation
+
+17) What is the abbreviation used for a software package that permits the user to create, retrieve and maintain records in a database?
+    (a) DASD
+    (b) CRMD
+    (c) DBMS
+    (d) All of these
+    (e) None of the above
+    Answer: (c) DBMS
+
+18) Choose the right sequence of virus stages –
+    (a) Triggering, Damage, Dormancy, Propagation
+    (b) Damage, Triggering, Dormancy, Propagation
+    (c) Damage, Triggering, Propagation, Dormancy
+    (d) Triggering, Damage, Propagation, Dormancy
+    (e) Dormancy, Propagation, Triggering, Damage
+    Answer: (e) Dormancy, Propagation, Triggering, Damage
+
+19) In SQL, which command is used to add new rows to a table?
+    (a) Alter Table
+    (b) Add row
+    (c) Insert
+    (d) Append
+    (e) None of the Above
+    Answer: (c) Insert
+
+20) To delete a particular column in a relation the command used is:
+    (a) DELETE
+    (b) UPDATE
+    (c) DROP
+    (d) ALTER
+    (e) None of these
+    Answer: (d) ALTER   [ALTER TABLE ... DROP COLUMN ...]
+
+21) A primary key if combined with a foreign key creates
+    (a) Parent-Child relationship between the tables that connect them.
+    (b) Many to many relationship between the tables that connect them.
+    (c) Network model between the tables that connect them
+    (d) All of the above
+    (e) None of the above
+    Answer: (a) Parent-Child relationship between the tables that connect them.
+
+22) Which of the following is record based logical model?
+    (a) Network Model
+    (b) Object oriented model
+    (c) E-R Model
+    (d) All of these
+    (e) None of these
+    Answer: (a) Network Model
+
+23) The full form of DDL is
+    (a) Dynamic Data Language
+    (b) Detailed Data Language
+    (c) Data Definition Language
+    (d) Data Derivation Language
+    (e) All of these
+    Answer: (c) Data Definition Language
+
+24) Which of the following virus overtake computer system when it boots and destroy information?
+    (a) Trojan
+    (b) System infectors
+    (c) Boot infectors
+    (d) Stealth virus
+    (e) None of these
+    Answer: (c) Boot infectors
+
+25) The relational model includes two general integrity rules. Integrity rule 1 is concerned with ____ and integrity rule 2 is concerned with ____
+    (a) Primary Key, Foreign key
+    (b) Primary Key, Composite key
+    (c) Unique key, Foreign key
+    (d) Composite Key, Foreign key
+    (e) None of these
+    Answer: (a) Primary Key, Foreign key
+
+26) ____ is person who has the central control over both data and application programs.
+    (a) System engineer
+    (b) Database administrator
+    (c) Database manager
+    (d) Technical analyst
+    (e) None of these
+    Answer: (b) Database administrator
+
+27) An attribute of a relation that references the primary key of another relation is known as the ____
+    (a) Foreign Key
+    (b) Unique Key
+    (c) Parent key
+    (d) Child key
+    (e) Index key
+    Answer: (a) Foreign Key
+
+28) An entity set that does not have sufficient attributes to form a primary key is a
+    (a) Strong entity set
+    (b) Weak entity set
+    (c) Simple entity set
+    (d) Primary entity set
+    (e) None of these
+    Answer: (b) Weak entity set
+
+29) The JDBC-ODBC bridge is
+    (a) Three tiered
+    (b) Multithread
+    (c) Best for any platform
+    (d) All of these
+    (e) None of these
+    Answer: (b) Multithread
+
+30) In a relational database, this is a data structure that organizes the information about a single topic into rows and columns.
+    (a) Block
+    (b) Record
+    (c) Tuple
+    (d) Table
+    (e) None of these
+    Answer: (d) Table
