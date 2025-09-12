@@ -1,0 +1,22 @@
++---------------------------+----------------------+---------------------------+-------------------------------------------+
+| Subject / Topic           | Avg. Weightage       | Category                  | Notes                                     |
++---------------------------+----------------------+---------------------------+-------------------------------------------+
+| Operating Systems (OS)    | 8–10 marks           | 🔥 High Weightage         | Paging, Scheduling, Deadlocks, Sync       |
+| DBMS                      | 7–8 marks            | 🔥 High Weightage         | Normalization, Transactions, SQL          |
+| Computer Networks (CN)    | 8–10 marks           | 🔥 High Weightage         | TCP/UDP, App Layer, Error Detection       |
+| DS + Algorithms           | 8–10 marks           | 🔥 High Weightage         | Sorting, Graphs, Trees, Heap, Complexity  |
+| Discrete Mathematics      | 7–8 marks            | 🔥 High Weightage         | Logic, Graphs, Relations                  |
+| Engineering Maths         | 13–15 marks          | 🔥 High Weightage         | Linear Algebra, Probability (formula-based)|
+| General Aptitude          | 15 marks             | 🔥 High Weightage         | Easy 15 marks, English + Quant + Reasoning|
++---------------------------+----------------------+---------------------------+-------------------------------------------+
+| Compiler Design           | 5–7 marks            | ✅ Easy to Cover          | Lexical Analysis, Parsing (predictable)   |
+| COA (Basics)              | 6–8 marks            | ✅ Easy to Cover          | Number System, Cache, Pipelining basics   |
+| TOC (Basics)              | 6–8 marks            | ✅ Easy to Cover          | DFA, NFA, CFG → always asked              |
++---------------------------+----------------------+---------------------------+-------------------------------------------+
+| Advanced TOC              | 1–2 marks            | ⚠️ Medium (Must Cover)    | PDA, Turing Machine (risky to skip)       |
+| Advanced COA              | 1–2 marks            | ⚠️ Medium (Must Cover)    | Hazards, Control Unit                     |
+| Compiler (Advanced)       | 1–2 marks            | ⚠️ Medium (Must Cover)    | Code Gen, Optimization                    |
+| Maths (Calc, Numerical)   | 1–2 marks            | ⚠️ Medium (Must Cover)    | Rare but helpful                          |
++---------------------------+----------------------+---------------------------+-------------------------------------------+
+| Rare / Low ROI Topics     | 0–1 marks (occasional)| ❌ Low Priority           | Hard proofs, deep pipeline, tough RA in DB|
++---------------------------+----------------------+---------------------------+-------------------------------------------+
